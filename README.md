@@ -10,6 +10,11 @@ Thank you for your attention, we are preparing the journal version recently and 
 
 If our work inspires your research, you can cite our article. Thank you!
 
-## 🤝 Acknowledgement
-
-This repo is mainly built based on [HtFLlib](https://github.com/TsingZ0/HtFLlib), [DLDR](https://github.com/nblt/DLDR) . Thanks for their great work!
+```bibtex
+@inproceedings{zhang2025subspace,
+  title={Subspace Constraint and Contribution Estimation for Heterogeneous Federated Learning},
+  author={Zhang, Xiangtao and Li, Sheng and Li, Ao and Liu, Yipeng and Zhang, Fan and Zhu, Ce and Zhang, Le},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={20632--20642},
+  year={2025}
+}
